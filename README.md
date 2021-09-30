@@ -1,2 +1,3 @@
 # hi-world
-just another repository
+hi humans!
+zammy here ,i like node.js
